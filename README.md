@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I'm Jesus Contreras (Chuda)
-![](https://github.com/chudacontreras/chudacontreras/blob/master/img/chuda_header.jpeg)
+<!--![](https://github.com/chudacontreras/chudacontreras/blob/master/img/chuda_header.jpeg)-->
 
 ```python
 class Chuda(self):

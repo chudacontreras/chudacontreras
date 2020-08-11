@@ -28,7 +28,7 @@ class Chuda(self):
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'GitHub Actions', 'AWS', 'Heroku', 'gitlab-ci'],
+            'devops': ['Docker', 'LXC', 'Nginx', 'GitHub Actions', 'AWS', 'IBM_cloud', 'Heroku', 'gitlab-ci'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'RabbitMQ', 'Redis', 'Celery'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }

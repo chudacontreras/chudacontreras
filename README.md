@@ -47,6 +47,7 @@ if __name__ == '__main__':
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+  <p><span align="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
@@ -66,9 +67,11 @@ if __name__ == '__main__':
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-
+</p></span>
+ <p><span align="right">
   ## Get in touch
 
 - Twitter:       https://twitter.com/chudacontreras
 - Linkedin:      https://www.linkedin.com/in/chudacontreras/
 <!-- Personal Site: https://chuda.me -->
+</p></span>

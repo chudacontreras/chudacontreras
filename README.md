@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 <!--
 **chudacontreras/chudacontreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I'm Jesus Contreras (Chuda)
+
+
+```python
+class Chuda(self):
+        self.username = 'chudacontreras'
+        self.name = 'Jesus Contreras'
+        self.web = 'https://chuda.me'
+        self.twitter = '@chudacontreras'
+        self.linkedin = 'https://www.linkedin.com/in/chudacontreras/'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
+            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'devops': ['Docker', 'Nginx', 'GitHub Actions', 'AWS', 'Heroku', 'gitlab-ci'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'RabbitMQ', 'Redis', 'Celery'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+        }
+        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Chuda()
+
+
+```
+## Get in touch
+
+- Twitter:       https://twitter.com/chudacontreras
+- Linkedin:      https://www.linkedin.com/in/chudacontreras/
+- Personal Site: https://chuda.me

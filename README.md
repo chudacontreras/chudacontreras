@@ -47,4 +47,4 @@ if __name__ == '__main__':
 
 - Twitter:       https://twitter.com/chudacontreras
 - Linkedin:      https://www.linkedin.com/in/chudacontreras/
-- Personal Site: https://chuda.me
+<!-- Personal Site: https://chuda.me -->

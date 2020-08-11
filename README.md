@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I'm Jesus Contreras (Chuda)
-<!--![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)-->
 ![](https://github.com/chudacontreras/chudacontreras/blob/master/img/chuda_header.jpeg)
 
 ```python

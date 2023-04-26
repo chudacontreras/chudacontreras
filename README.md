@@ -49,3 +49,8 @@ if __name__ == '__main__':
 - Twitter:       https://twitter.com/chudacontreras
 - Linkedin:      https://www.linkedin.com/in/chudacontreras/
 <!-- Personal Site: https://chuda.me -->
+
+## 🏅 Badges
+
+<a href="https://www.credly.com/badges/51b243aa-7aec-493f-9fb8-b275e452282a/public_url"><img height="110px" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+

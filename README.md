@@ -54,3 +54,6 @@ if __name__ == '__main__':
 
 <a href="https://www.credly.com/badges/51b243aa-7aec-493f-9fb8-b275e452282a/public_url"><img height="110px" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
 
+<a href="https://www.credly.com/badges/51b243aa-7aec-493f-9fb8-b275e452282a/public_url"><img height="110px" alt="AWS Black Belt Pilot - Media & Entertainment" src="https://images.credly.com/size/340x340/images/f1114d81-3199-44da-a714-72940e0f9e15/image.png"/></a>
+
+

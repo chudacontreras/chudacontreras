@@ -27,8 +27,9 @@ class Chuda(self):
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel'],
+            'cloud': ['AWS', 'GCP', 'AZURE', 'IBM_cloud'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'LXC', 'Nginx', 'GitHub Actions', 'AWS', 'IBM_cloud', 'Heroku', 'gitlab-ci'],
+            'devops': ['Docker', 'LXC', 'Nginx', 'GitHub Actions', 'gitlab-ci', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'RabbitMQ', 'Redis', 'Celery'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }

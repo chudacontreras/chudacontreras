@@ -63,15 +63,6 @@ Databases:      RDS (Multi-AZ) | DynamoDB
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chudacontreras&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chudacontreras&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🧠 DevOps Toolkit
 
 ```bash

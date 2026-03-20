@@ -25,12 +25,12 @@ class Chuda(self):
         self.twitter = '@chudacontreras'
         self.linkedin = 'https://www.linkedin.com/in/chudacontreras/'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel'],
-            'cloud': ['AWS', 'GCP', 'AZURE', 'IBM_cloud'],
+            'frontend': ['HTML', 'CSS', 'JavaScript'],
+            'backend': ['Python', 'PHP', 'Java'],
+            'cloud': ['AWS', 'GCP', 'IBM_cloud'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'LXC', 'Nginx', 'GitHub Actions', 'gitlab-ci', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'RabbitMQ', 'Redis', 'Celery'],
+            'devops': ['GitHub Actions', 'gitlab-ci', 'IaC', 'CI/CD;],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'RabbitMQ'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']

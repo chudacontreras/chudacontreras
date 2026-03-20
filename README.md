@@ -84,7 +84,7 @@ Docker | GitHub Actions | CI/CD
 
 ## 📜 Certifications
 
-* *AWS Certified*
+* #### AWS Certified
 
 <a href="https://www.credly.com/badges/51b243aa-7aec-493f-9fb8-b275e452282a/public_url"><img height="110px" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a> <a href="https://www.credly.com/badges/3ec26635-7775-45f5-aef6-fa40ebc93516/public_url"><img height="110px" alt="Developer Asociado" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/></a>
 

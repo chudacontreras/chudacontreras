@@ -1,59 +1,105 @@
-<!--### Hi there 👋
+<div align="center">
 
-<!--
-**chudacontreras/chudacontreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ☁️ Chuda Contreras
 
-Here are some ideas to get you started:
+### AWS CloudOps Engineer | DevOps | Infrastructure as Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi, I'm Jesus Contreras (Chuda)
-<!--![](https://github.com/chudacontreras/chudacontreras/blob/master/img/chuda_header.jpeg)-->
+<img src="https://img.shields.io/badge/AWS-Cloud%20Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IaC-Terraform-623CE4?style=for-the-badge&logo=terraform"/>
+<img src="https://img.shields.io/badge/Automation-Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/DevOps-CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions"/>
 
-```python
-class Chuda(self):
-        self.username = 'chudacontreras'
-        self.name = 'Jesus Contreras'
-        self.web = 'https://chuda.me'
-        self.twitter = '@chudacontreras'
-        self.linkedin = 'https://www.linkedin.com/in/chudacontreras/'
-        self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript'],
-            'backend': ['Python', 'PHP', 'Java'],
-            'cloud': ['AWS', 'GCP', 'IBM_cloud'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['GitHub Actions', 'gitlab-ci', 'IaC', 'CI/CD;],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'RabbitMQ'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
-        }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+</div>
 
-    def __str__(self):
-        return self.name
+---
 
+## 🧭 Cloud Profile
 
-if __name__ == '__main__':
-    me = Chuda()
+CloudOps Engineer with 3+ years of experience managing **production cloud environments**, focused on:
 
+* ⚙️ Incident response & troubleshooting (L2/L3)
+* 📊 Monitoring & observability (CloudWatch, Event-driven)
+* 🔐 Secure cloud architectures (IAM, least privilege)
+* 🏗️ Infrastructure as Code (Terraform / CloudFormation)
 
+---
+
+## 🏗️ Architecture Principles (AWS Well-Architected)
+
+| Pillar                     | Implementation                        |
+| -------------------------- | ------------------------------------- |
+| 🛠️ Operational Excellence | Automation with Lambda + EventBridge  |
+| 🔐 Security                | IAM least privilege + Secrets Manager |
+| ⚡ Performance              | Auto Scaling + Serverless             |
+| ♻️ Reliability             | Multi-AZ + Failover                   |
+| 💰 Cost Optimization       | Rightsizing + Pay-per-use             |
+
+---
+
+## ⚡ Core AWS Stack
+
+```bash
+Compute:        EC2 | Auto Scaling | ALB
+Networking:     VPC | Route 53 | NAT Gateway
+Storage:        S3 | EBS | Glacier
+Serverless:     Lambda | Step Functions
+Monitoring:     CloudWatch | EventBridge
+Security:       IAM | Secrets Manager
+Databases:      RDS (Multi-AZ) | DynamoDB
 ```
 
-  ## Get in touch
+---
 
-- Twitter:       https://twitter.com/chudacontreras
-- Linkedin:      https://www.linkedin.com/in/chudacontreras/
-<!-- Personal Site: https://chuda.me -->
+## 🧪 Featured Work
 
-## 🏅 Badges
+🔹 **CloudWatch Automation Framework**
+→ Automated alarms, dashboards and remediation using Lambda + EventBridge
 
-<a href="https://www.credly.com/badges/51b243aa-7aec-493f-9fb8-b275e452282a/public_url"><img height="110px" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a> <a href="https://www.credly.com/badges/d40e690e-54ab-4b92-9ba9-638e2ebc2fa7/public_url"><img height="110px" alt="AWS Black Belt Pilot - Media & Entertainment" src="https://images.credly.com/size/340x340/images/f1114d81-3199-44da-a714-72940e0f9e15/image.png"/></a><a href="https://www.credly.com/badges/3ec26635-7775-45f5-aef6-fa40ebc93516/public_url"><img height="110px" alt="Developer Asociado" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/></a>
+🔹 **Terraform AWS Modules**
+→ Reusable infrastructure modules aligned with best practices
+
+🔹 **Secure IAM Policies**
+→ Fine-grained access control with least privilege
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chudacontreras&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chudacontreras&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 DevOps Toolkit
+
+```bash
+Terraform | CloudFormation | AWS CLI
+Python | Bash | Linux
+Docker | GitHub Actions | CI/CD
+```
+
+---
+
+## 📜 Certifications
+
+* AWS Certified<a href="https://www.credly.com/badges/51b243aa-7aec-493f-9fb8-b275e452282a/public_url"><img height="110px" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+<a href="https://www.credly.com/badges/3ec26635-7775-45f5-aef6-fa40ebc93516/public_url"><img height="110px" alt="Developer Asociado" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/></a>
 
 
 
+---
+
+## 🌐 Connect
+
+* 🌍 Blog → https://chuda.me
+* 💼 LinkedIn → https://www.linkedin.com/in/chudacontreras/
+
+---
+
+<div align="center">
+
+### ⚡ "Designing resilient, scalable and secure cloud architectures"
+
+</div>

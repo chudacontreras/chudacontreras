@@ -1,7 +1,7 @@
 <div align="center">
 
-# ☁️ Chuda Contreras
-
+# ☁️ Jesus Contreras (Chuda)
+ 
 ### AWS CloudOps Engineer | DevOps | Infrastructure as Code
 
 <img src="https://img.shields.io/badge/AWS-Cloud%20Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
